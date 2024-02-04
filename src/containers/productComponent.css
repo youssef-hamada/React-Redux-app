@@ -1,0 +1,18 @@
+.image-card{
+    height: 38vh;
+    /* width: 30vw; */
+}
+
+
+.image-card>img{
+    height: 15rem;
+    width: 10rem;
+    /* height:40vh; */
+    /* padding: 1.4rem; */
+
+}
+
+/* .card-improved > img{
+    width: 100%;
+    height: 6rem;
+} */
